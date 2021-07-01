@@ -19,9 +19,6 @@ Here are some ideas to get you started:
   <img height="180em" class ="img1" style="padding-right:15px" width="55%" src="https://github-readme-stats.vercel.app/api?username=thallenk&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thallenk&layout=compact&langs_count=16&theme=dracula"/>
 </div>
- ##
- 
-
 
 <div style="display: inline_block"><br>
   <h2>Stacks em desenvolvimento 👩‍💻️:</h2>
@@ -33,8 +30,6 @@ Here are some ideas to get you started:
 
 </div>
   
-  ##
-### Redes Sociais 💬️\
 <div> 
 <h2>Redes Sociais 💬️</h2><br>
 
