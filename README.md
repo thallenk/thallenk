@@ -29,6 +29,10 @@ Template inspirado no github da rafaelabarellini.s2
   <a href = "thallen_k@hotmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/thallenk" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
+ <br>
+ <h2><a href="https://abre.ai/cv-thallen" target="_blank">Currículo</a></h2>
+ 
+ 
 ![Snake animation](https://github.com/thallenk/thallenk/blob/output/github-contribution-grid-snake.svg)
  
 </div>
