@@ -30,7 +30,7 @@ Template inspirado no github da rafaelabarellini.s2
   <a href="https://www.linkedin.com/in/thallenk" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
  <br>
- <h2><a href="https://abre.ai/thallen-cv" target="_blank">Resume</a></h2>
+ <h2><a href="https://abre.ai/thallen-galvao-cv" target="_blank">Resume</a></h2>
  
  
 ![Snake animation](https://github.com/thallenk/thallenk/blob/output/github-contribution-grid-snake.svg)
